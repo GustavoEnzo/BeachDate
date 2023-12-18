@@ -1,2 +1,2 @@
 # BeachDate
-Um aplicativo para o agendamentos de horários em um arena de vôlei
+Um aplicativo para agendamento de horários em um arena de vôlei
