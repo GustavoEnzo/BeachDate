@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255166792722",
+    "project_id": "beach-ca761",
+    "storage_bucket": "beach-ca761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255166792722:android:9c03655531b41e0eea44cb",
+        "android_client_info": {
+          "package_name": "com.example.beach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjS5wt1YigQLVQ7wYOqNQDXKmV21BVyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
